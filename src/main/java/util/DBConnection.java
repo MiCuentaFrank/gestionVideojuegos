@@ -13,7 +13,7 @@ import java.util.Properties;
 public class DBConnection {
     private static Properties prop = new Properties();
 
-    //bloque estatico que permite cargar la clase
+    //bloque estatico que permite cargar el archivo db.properties
     static{
         try (InputStream input = DBConnection.class.getClassLoader().getResourceAsStream("db.properties")){
             if(input == null){
@@ -50,4 +50,4 @@ public class DBConnection {
             }
         }
     }
-} // <- Aquí cierra la clase
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<juegos>
+    <juego>
+        <titulo>Final Fantasy VII</titulo>
+        <desarrollador>Square</desarrollador>
+        <plataforma>PlayStation</plataforma>
+        <anio_lanzamiento>1997</anio_lanzamiento>
+        <genero>RPG</genero>
+        <precio>29.99</precio>
+    </juego>
+    <juego>
+        <titulo>Dark Souls</titulo>
+        <desarrollador>FromSoftware</desarrollador>
+        <plataforma>PC</plataforma>
+        <anio_lanzamiento>2011</anio_lanzamiento>
+        <genero>Action RPG</genero>
+        <precio>39.99</precio>
+    </juego>
+    <juego>
+        <titulo>The Witcher 3: Wild Hunt</titulo>
+        <desarrollador>CD Projekt Red</desarrollador>
+        <plataforma>PC</plataforma>
+        <anio_lanzamiento>2015</anio_lanzamiento>
+        <genero>RPG</genero>
+        <precio>39.99</precio>
+    </juego>
+    <juego>
+        <titulo>Bloodborne</titulo>
+        <desarrollador>FromSoftware</desarrollador>
+        <plataforma>PlayStation 4</plataforma>
+        <anio_lanzamiento>2015</anio_lanzamiento>
+        <genero>Action RPG</genero>
+        <precio>49.99</precio>
+    </juego>
+    <juego>
+        <titulo>Elden Ring</titulo>
+        <desarrollador>FromSoftware</desarrollador>
+        <plataforma>PC</plataforma>
+        <anio_lanzamiento>2022</anio_lanzamiento>
+        <genero>Action RPG</genero>
+        <precio>59.99</precio>
+    </juego>
+    <juego>
+        <titulo>Hollow Knight</titulo>
+        <desarrollador>Team Cherry</desarrollador>
+        <plataforma>PC</plataforma>
+        <anio_lanzamiento>2017</anio_lanzamiento>
+        <genero>Metroidvania</genero>
+        <precio>14.99</precio>
+    </juego>
+    <juego>
+        <titulo>Celeste</titulo>
+        <desarrollador>Maddy Makes Games</desarrollador>
+        <plataforma>Nintendo Switch</plataforma>
+        <anio_lanzamiento>2018</anio_lanzamiento>
+        <genero>Platform</genero>
+        <precio>19.99</precio>
+    </juego>
+    <juego>
+        <titulo>Hades</titulo>
+        <desarrollador>Supergiant Games</desarrollador>
+        <plataforma>PC</plataforma>
+        <anio_lanzamiento>2020</anio_lanzamiento>
+        <genero>Roguelike</genero>
+        <precio>24.99</precio>
+    </juego>
+</juegos>
